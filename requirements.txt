@@ -1,0 +1,7 @@
+langchain
+chromadb
+transformers
+sentence-transformers
+pypdf
+torch
+accelerate

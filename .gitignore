@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# Dataset
+data/
+dataset/
+images/
+train/
+test/
+
+# Models
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+saved_model/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
