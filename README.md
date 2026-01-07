@@ -10,9 +10,7 @@
 
 ## 📌 Project Overview
 
-*HealthCare Diagnostics System* is an intelligent healthcare application that assists in *medical diagnosis* using *Deep Learning (CNN)* for image-based disease detection and *RAG (Retrieval Augmented Generation)* for text-based medical insights.
-
-This project is designed to showcase *AI + Full Stack skills, making it ideal for **placements, internships, and portfolio presentation*.
+*HealthCare Diagnostics System* is an intelligent healthcare application that assists in *medical diagnosis* using *Deep Learning (CNN)* for image-based disease detection and *RAG (Retrieval Augmented Generation)* for text-based medical insights*.
 
 ---
 
